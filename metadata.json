@@ -1,0 +1,6 @@
+{
+  "name": "Health360",
+  "description": "An all-in-one AI health companion featuring calorie tracking, step counting, sleep analysis, Indian vegetarian meal planning, and an AI chat coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
